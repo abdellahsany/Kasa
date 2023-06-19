@@ -1,0 +1,22 @@
+@import '../../assets/scss/variables.scss';
+
+.footer{
+   height: 209px;
+   background-color: #000000;
+   color:$color-white;
+   margin-top: 40px;
+   display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+      
+      @media screen and (max-width: 650px) {
+         height: 209px;
+      }  
+   
+   &__lien{
+      margin-top: 40px;
+      font-size: 24px;
+   }
+   
+}

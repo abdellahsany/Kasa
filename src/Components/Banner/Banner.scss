@@ -1,0 +1,30 @@
+@import '../../assets/scss/variables.scss';
+@import '../../assets/scss/mixins.scss';
+
+.banner{
+   height: 223px;
+   border-radius: 25px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   background-size: cover;
+      @include responsive(smartphone){
+         height: 180px;    
+      }
+  
+   &__title{
+      color: white;
+      font-size: 48px;
+      font-weight: $font-medium;
+         @include responsive(smartphone){
+            font-size: 24px;   
+         }
+   }
+   &__accueil{
+      background-image:linear-gradient(rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.4)), url("../../assets/images/bannerAccueil.png");
+   }
+   &__apropos{
+      background-image:linear-gradient(rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.4)), url("../../assets/images/bannerApropos.png");
+   }
+
+}

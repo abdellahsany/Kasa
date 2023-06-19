@@ -1,0 +1,25 @@
+// MIXIN FLEX
+@mixin flex ($direction, $justify-content, $align-items) {
+   display: flex;
+   
+   @if($direction != 0){
+      flex-direction: $direction;
+   }
+   
+   @if($justify-content != 0){
+      justify-content: $justify-content;
+   }
+   
+   @if($align-items != 0){
+      align-items: $align-items;
+   }
+}
+
+// MIXIN RESPONSIVE
+@mixin responsive($devise: smartphone) { 
+   $devise-width: map-get($breakpoints, $devise);
+   
+   @media screen and (max-width: $devise-width) {
+      @content;
+   }
+}

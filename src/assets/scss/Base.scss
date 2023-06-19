@@ -1,0 +1,34 @@
+/* IMPORTATION DU FICHIER MIXINS.SCSS */
+@import '../../assets/scss/mixins.scss';
+
+/* IMPORTATION DU FICHIER VARIABLES.SCSS */
+@import '../../assets/scss/variables.scss'; 
+
+/* STYLES GÉNÉRAUX */
+* {
+   box-sizing: border-box;
+   padding: 0;
+   margin: 0;
+   list-style: none;
+   list-style-type: none;
+}
+
+/* STYLES DU CORPS DE LA PAGE */
+body {
+   font-size: 0.75rem;
+   color: $color1;
+   width: 80%;
+   margin: auto;
+   font-family: $font-family-primary, DM+Sans, sans-serif;
+   font-weight: $font-regular;
+
+/* STYLES SPÉCIFIQUES AUX APPAREILS MOBILES (UTILISATION DU MIXIN RESPONSIVE) */
+   @include responsive(smartphone) {
+      width: 94%;
+   }
+}
+
+/* STYLES DES LIENS */
+a {
+   text-decoration: none;
+}
