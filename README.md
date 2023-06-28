@@ -24,9 +24,6 @@ It is essential to use these elements of React for quality code:
 - Event management.
 - Lists: React allows you to do some really interesting things with lists, by iterating on them, for example with map. You should use them as much as possible.
 - It is also recommended, but not required, to use functional components rather than class components.
-
-#### React Router
-
 - Route parameters are handled by React Router in the URL to retrieve information for each housing.
 - There is one page per route.
 - The 404 page is returned for each non-existent route, or if a value present in the URL is not part of the data entered.
