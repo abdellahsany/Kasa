@@ -6,7 +6,7 @@
 [![React](https://img.shields.io/badge/React-18.2.0-9cf)](https://fr.reactjs.org/)
 [![React router](https://img.shields.io/badge/React%20Router-v6.2.2-orange)](https://v5.reactrouter.com/web/guides/quick-start)
 [![React icons](https://img.shields.io/badge/React%20Icons-4.4.0-green)](https://react-icons.github.io/react-icons/)
-[![OpenClassrooms](https://openclassrooms.com/fr/)
+[![OpenClassrooms](https://img.shields.io/badge/React%20Icons-4.4.0-green)](https://openclassrooms.com/fr/)
 
 ## Project goal
 
