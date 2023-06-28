@@ -1,4 +1,5 @@
-![2023-06-28_05h53_39](https://github.com/abdellahsany/Kasa/assets/106497263/25b882a2-a7ee-48a6-9374-bcd3166f734f)
+![2023-06-28_05h53_39](https://github.com/abdellahsany/Kasa/assets/106497263/c43d2974-0c2f-4bb9-820d-70ea9089c114)
+
 
 Develop a new web platform for a company called Kasa, which has been in the business of renting apartments for almost 10 years now.
 With more than 500 ads posted every day, Kasa is one of the leaders in apartment rentals in France.
