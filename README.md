@@ -11,37 +11,37 @@
 
 ## Mission
 
-- Start the React project and develop the entire application, React components, React Router routes, following the mockups (responsive!).
-- Back-end / data: Use the 20 housing listings in the JSON file to build the corresponding Front-end.
+Développez une application Web avec React et React Router.
 
 ## Objectif
 
-It is essential to use these elements of React for quality code:
+Kasa vous recrute en tant que développeur Front-end en freelance pour développer leur nouvelle plateforme web. Kasa est dans le métier de la location d’appartements entre particuliers depuis près de 10 ans maintenant. Avec plus de 500 annonces postées chaque jour Kasa fait partie des leaders de la location d’appartements entre particuliers en France.
 
-- Breakdown into re-usable, module-based components.
-- One component per file.
-- Logical structure of different files.
-- Use of props between components.
-- Use of state in components if necessary.
-- Event management.
-- Lists: React allows you to do some really interesting things with lists, by iterating on them, for example with map. You should use them as much as possible.
-- It is also recommended, but not required, to use functional components rather than class components.
-- Route parameters are handled by React Router in the URL to retrieve information for each housing.
-- There is one page per route.
-- The 404 page is returned for each non-existent route, or if a value present in the URL is not part of the data entered.
-- The router logic is gathered in a single file.
+L'occasion parfaite pour vous d'ajouter une belle référence à votre portfolio de freelance !
 
 ## Fonctionnalités
 
-- For the photos in the gallery (Gallery component): If the user is at the first image and clicks on "previous image", the gallery displays the last image.
-- Conversely, when the displayed image is the last one in the gallery, if the user clicks on "next image", the gallery displays the first image.
-- If there is only one image, the "next" and "previous" buttons do not appear.
-- The gallery must always remain at the same height as indicated on the mockup. The images will therefore be collapsed and centered in the image field.
-- Collapse: By default, collapses are closed when the page is initialized.
-- If the Collapse is open, the user's click allows to close it.
-- Conversely, if the Collapse is closed, the user can click to open it.
+- Décomposition en composants réutilisables à base de modules.
+- Un composant par fichier.
+- Structure logique des différents fichiers.
+- Utilisation d'accessoires entre les composants.
+- Utilisation de l'état dans les composants si nécessaire.
+- Gestion des événements.
+- Listes : React vous permet de faire des choses vraiment intéressantes avec des listes, en itérant dessus, par exemple avec map. Vous devez les utiliser autant que possible.
+- Il est également recommandé, mais pas obligatoire, d'utiliser des composants fonctionnels plutôt que des composants de classe.
+- Les paramètres de route sont gérés par React Router dans l'URL pour récupérer des informations pour chaque logement.
+- Il y a une page par itinéraire.
+- La page 404 est retournée pour chaque route inexistante, ou si une valeur présente dans l'URL ne fait pas partie des données saisies.
+- La logique du routeur est regroupée dans un seul fichier.
 
 ## Procédés techniques
+
+- Pour les photos de la galerie (composant Galerie) : Si l'utilisateur est à la première image et clique sur « image précédente », la galerie affiche la dernière image.
+- A l'inverse, lorsque l'image affichée est la dernière de la galerie, si l'utilisateur clique sur "image suivante", la galerie affiche la première image.
+- S'il n'y a qu'une seule image, les boutons "suivant" et "précédent" n'apparaissent pas.
+- La galerie doit toujours rester à la même hauteur qu'indiqué sur la maquette. Les images seront donc réduites et centrées dans le champ image.
+- Collapse : Par défaut, les replis sont fermés lors de l'initialisation de la page.
+- Si le Collapse est ouvert, le clic de l'utilisateur permet de le fermer.
 
 ## Visitez le projet terminé
 
