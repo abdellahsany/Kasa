@@ -1,5 +1,7 @@
 ![2023-06-28_05h53_39](https://github.com/abdellahsany/Kasa/assets/106497263/c43d2974-0c2f-4bb9-820d-70ea9089c114)
 
+`P2` `Booki` `OpenClassrooms` `Développeur d'application - JavaScript React` 
+
 [![HTML](https://img.shields.io/badge/HTML-HyperText%20Markup%20Language-orange)](https://developer.mozilla.org/fr/docs/Learn/HTML)
 [![CSS](https://img.shields.io/badge/CSS-Cascading%20Style%20Sheets-blue)](https://developer.mozilla.org/fr/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JS-JavaScript-yellow)](https://www.javascript.com/)
