@@ -1,19 +1,12 @@
 ![2023-06-28_05h53_39](https://github.com/abdellahsany/Kasa/assets/106497263/c43d2974-0c2f-4bb9-820d-70ea9089c114)
 
-
-Develop a new web platform for a company called Kasa, which has been in the business of renting apartments for almost 10 years now.
-With more than 500 ads posted every day, Kasa is one of the leaders in apartment rentals in France.
-
 [![HTML](https://img.shields.io/badge/HTML-HyperText%20Markup%20Language-orange)](https://developer.mozilla.org/fr/docs/Learn/HTML)
 [![CSS](https://img.shields.io/badge/CSS-Cascading%20Style%20Sheets-blue)](https://developer.mozilla.org/fr/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JS-JavaScript-yellow)](https://www.javascript.com/)
 [![React](https://img.shields.io/badge/React-18.2.0-9cf)](https://fr.reactjs.org/)
 [![React router](https://img.shields.io/badge/React%20Router-v6.2.2-orange)](https://v5.reactrouter.com/web/guides/quick-start)
 [![React icons](https://img.shields.io/badge/React%20Icons-4.4.0-green)](https://react-icons.github.io/react-icons/)
-
-## Logo
-
-![Logo](src/images/logo.png)
+[![OpenClassrooms](https://openclassrooms.com/fr/)
 
 ## Project goal
 
