@@ -43,4 +43,4 @@ It is essential to use these elements of React for quality code:
 
 ## Visitez le projet terminé
 
-https://abdellahsany.github.io/
+https://abdellahsany.github.io/Kasa/
