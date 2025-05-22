@@ -1,0 +1,94 @@
+// IMPORTATION DES FICHIERS SCSS
+@import '../../assets/scss/mixins.scss';
+@import '../../assets/scss/variables.scss';
+
+// CLASSE "ACCORDION"
+.accordion{
+
+   // ENTÊTE DE L'ACCORDION
+   &__header{
+      background-color:$color1; // Couleur de fond de l'entête de l'accordéon
+      border-radius: 10px; // Bordure arrondie de l'entête de l'accordéon
+      @include flex (row, space-between, center); // Utilisation d'un mixin pour appliquer un affichage flexible (flexbox)
+      height: 52px; // Hauteur de l'entête de l'accordéon
+
+      // TITRE DE L'ENTÊTE DE L'ACCORDION
+      &__titre{
+         font-size: 18px; // Taille de police du titre de l'entête de l'accordéon
+         color: $color-white; // Couleur du texte du titre de l'entête de l'accordéon
+         padding-left: 20px; // Espacement à gauche du titre de l'entête de l'accordéon
+         width: 100%; // Largeur du titre de l'entête de l'accordéon
+         font-weight: $font-medium; // Poids de la police du titre de l'entête de l'accordéon
+         @media screen and (max-width: 650px) {
+            font-size: 14px; // Taille de police du titre de l'entête de l'accordéon pour les écrans de petite taille
+         }   
+      }
+
+      // BOUTON DE TOGGLE DE L'ENTÊTE DE L'ACCORDION
+      &__toggle{
+         width: 40px; // Largeur du bouton de basculement de l'entête de l'accordéon
+         margin-right: 10px; // Marge à droite du bouton de basculement de l'entête de l'accordéon
+         cursor: pointer; // Curseur au survol du bouton de basculement de l'entête de l'accordéon
+      }
+   }
+
+   // CORPS DE L'ACCORDION
+   &__body{
+      background-color: $background2; // Couleur de fond du corps de l'accordéon
+      padding: 30px 12px 30px 20px; // Remplissage intérieur du corps de l'accordéon
+      font-size: 18px; // Taille de police du texte du corps de l'accordéon
+      min-height: 60px; // Hauteur minimale du corps de l'accordéon
+
+      // CLASSE "HIDE" POUR MASQUER LE CORPS DE L'ACCORDION
+      &.hide{
+         display: none; // Masquer le corps de l'accordéon en ajoutant la classe "hide"
+      }
+   }
+
+   // LISTE DES ÉLÉMENTS DE L'ACCORDION
+   &__liste li{
+      margin-bottom: 8px; // Marge inférieure entre les éléments de la liste de l'accordéon
+   }
+}
+
+// ANIMATION "SLIDE-IN-ELLIPTIC-TOP-FWD" POUR L'EN-TÊTE DE L'ACCORDION
+.accordion__header {
+   -webkit-animation: slide-in-elliptic-top-fwd 0.7s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+   animation: slide-in-elliptic-top-fwd 0.7s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+}
+
+// ANIMATION "SLIDE-IN-ELLIPTIC-TOP-FWD" (KEYFRAMES) POUR WEBKIT
+@-webkit-keyframes slide-in-elliptic-top-fwd {
+   0% {
+      -webkit-transform: translateY(-600px) rotateX(-30deg) scale(0);
+      transform: translateY(-600px) rotateX(-30deg) scale(0);
+      -webkit-transform-origin: 50% 100%;  // Origine de la transformation pour WebKit
+      transform-origin: 50% 100%;  // Origine de la transformation
+      opacity: 0;  // Opacité initiale
+   }
+   100% {
+      -webkit-transform: translateY(0) rotateX(0) scale(1);
+      transform: translateY(0) rotateX(0) scale(1);
+      -webkit-transform-origin: 50% 1400px;  // Origine de la transformation finale pour WebKit
+      transform-origin: 50% 1400px;  // Origine de la transformation finale
+      opacity: 1;  // Opacité finale
+   }
+}
+
+// ANIMATION "SLIDE-IN-ELLIPTIC-TOP-FWD" (KEYFRAMES)
+@keyframes slide-in-elliptic-top-fwd {
+   0% {
+      -webkit-transform: translateY(-600px) rotateX(-30deg) scale(0);
+      transform: translateY(-600px) rotateX(-30deg) scale(0);
+      -webkit-transform-origin: 50% 100%;  // Origine de la transformation
+      transform-origin: 50% 100%;  // Origine de la transformation
+      opacity: 0;  // Opacité initiale
+   }
+   100% {
+      -webkit-transform: translateY(0) rotateX(0) scale(1);
+      transform: translateY(0) rotateX(0) scale(1);
+      -webkit-transform-origin: 50% 1400px;  // Origine de la transformation finale
+      transform-origin: 50% 1400px;  // Origine de la transformation finale
+      opacity: 1;  // Opacité finale
+   }
+}

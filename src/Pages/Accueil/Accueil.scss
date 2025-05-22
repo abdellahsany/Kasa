@@ -1,0 +1,18 @@
+@import '../../assets/scss/variables.scss';
+@import '../../assets/scss/mixins.scss';
+//style section annonces
+.annonces{
+   margin-top: 40px;
+   background-color: $background2;
+   padding: 40px;
+   border-radius: 25px;
+   display: grid;
+   grid-template-columns: 1fr 1fr 1fr;
+   gap :40px;
+   @include responsive(smartphone){
+      grid-template-columns: 1fr;
+      padding: 0px;
+      background-color: #FFFFFF;
+      gap :20px;
+   }      
+}

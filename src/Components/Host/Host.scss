@@ -1,0 +1,26 @@
+@import '../../assets/scss/mixins.scss';
+@import '../../assets/scss/variables.scss';
+
+.host{
+   @include flex (row, space-between, center);
+   &__img{
+      height: 64px;
+      width: 64px;
+      border-radius: 50%;
+         @media screen and (max-width: 650px) {
+            height: 50px;
+            width: 50px;
+         }  
+      
+   }
+   &__name{
+      font-size: 18px;
+      text-align: right;
+      margin-right: 15px;
+      font-weight: $font-medium;
+     max-width: 120px;
+      @media screen and (max-width: 650px) {
+         font-size: 14px
+      }   
+   }
+}

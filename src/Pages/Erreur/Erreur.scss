@@ -1,0 +1,33 @@
+@import '../../assets/scss/variables.scss';
+@import '../../assets/scss/mixins.scss';
+   .page-erreur{
+      text-align: center;
+      
+      &__404{
+         font-size: 288px;
+         @include responsive(smartphone){
+            font-size: 100px;
+         }
+         font-weight: $font-bold;
+      }
+      &__msg{
+         font-size: 36px;
+         @include responsive(smartphone){
+            font-size: 24px;
+         }
+         padding-bottom: 180px;
+      }  
+      &__lien{
+         font-size:18px;
+         @include responsive(smartphone){
+            font-size: 14px;
+         }
+         color :$color1;
+         font-weight: $font-medium;
+         
+         &.active{
+            border-bottom:1px solid $color1;
+         }
+      }  
+      
+   }

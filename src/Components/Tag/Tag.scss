@@ -1,0 +1,23 @@
+@import '../../assets/scss/variables.scss';
+
+.tag{
+   background-color: $color1;
+   color: $color-white;
+   font-size: 14px;
+   border-radius: 10px;
+   min-width: 115px;
+   padding: 6px;
+   padding-left: 30px;
+   padding-right: 30px;
+   margin-right: 10px;
+   text-align: center;
+      @media screen and (max-width: 650px) {
+         min-width: 60px;
+         padding: 6px;
+         padding-left: 10px;
+         padding-right: 10px;
+         margin-right: 6px;
+         font-size: 12px;
+      }   
+
+}

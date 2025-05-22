@@ -1,0 +1,9 @@
+@import '../../assets/scss/mixins.scss';
+@import '../../assets/scss/variables.scss';
+.rating{
+   width:150px;
+   @include flex (row, space-between, center);
+   &__img{
+      margin-right: 10px;
+   }
+}
