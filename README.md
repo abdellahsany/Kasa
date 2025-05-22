@@ -1,7 +1,5 @@
 # Projet Kasa
 
-<div style="text-align: center;">
-
 [![HTML](https://img.shields.io/badge/HTML-HyperText%20Markup%20Language-orange)](https://developer.mozilla.org/fr/docs/Learn/HTML)
 [![CSS](https://img.shields.io/badge/CSS-Cascading%20Style%20Sheets-blue)](https://developer.mozilla.org/fr/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JS-JavaScript-yellow)](https://www.javascript.com/)
@@ -14,9 +12,6 @@
 [![Docker](https://img.shields.io/badge/Docker-v24.0-blue)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-v1.27-blueviolet)](https://kubernetes.io/)
 [![Node.js](https://img.shields.io/badge/Node.js-v18.15.0-green)](https://nodejs.org/)
-
-</div>
-
 
 ---
 
