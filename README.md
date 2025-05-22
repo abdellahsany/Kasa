@@ -1,17 +1,22 @@
 # Projet Kasa
 
-[![HTML](https://img.shields.io/badge/HTML-HyperText%20Markup%20Language-orange)](https://developer.mozilla.org/fr/docs/Learn/HTML)  
-[![CSS](https://img.shields.io/badge/CSS-Cascading%20Style%20Sheets-blue)](https://developer.mozilla.org/fr/docs/Web/CSS)  
-[![JavaScript](https://img.shields.io/badge/JS-JavaScript-yellow)](https://www.javascript.com/)  
-[![React](https://img.shields.io/badge/React-18.2.0-9cf)](https://fr.reactjs.org/)  
-[![React Router](https://img.shields.io/badge/React%20Router-v6.2.2-orange)](https://v5.reactrouter.com/web/guides/quick-start)  
-[![React Icons](https://img.shields.io/badge/React%20Icons-4.4.0-green)](https://react-icons.github.io/react-icons/)  
-[![SaaS](https://img.shields.io/badge/SaaS-Platform-blue)](https://en.wikipedia.org/wiki/Software_as_a_service)  
-[![API](https://img.shields.io/badge/API-v1.0-orange)](https://developer.mozilla.org/en-US/docs/Web/API)  
-[![Cloud](https://img.shields.io/badge/Cloud-AWS%20Ready-lightblue)](https://aws.amazon.com/)  
-[![Docker](https://img.shields.io/badge/Docker-v24.0-blue)](https://www.docker.com/)  
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-v1.27-blueviolet)](https://kubernetes.io/)  
-[![Node.js](https://img.shields.io/badge/Node.js-v18.15.0-green)](https://nodejs.org/)  
+<div style="text-align: center;">
+
+[![HTML](https://img.shields.io/badge/HTML-HyperText%20Markup%20Language-orange)](https://developer.mozilla.org/fr/docs/Learn/HTML)
+[![CSS](https://img.shields.io/badge/CSS-Cascading%20Style%20Sheets-blue)](https://developer.mozilla.org/fr/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JS-JavaScript-yellow)](https://www.javascript.com/)
+[![React](https://img.shields.io/badge/React-18.2.0-9cf)](https://fr.reactjs.org/)
+[![React Router](https://img.shields.io/badge/React%20Router-v6.2.2-orange)](https://v5.reactrouter.com/web/guides/quick-start)
+[![React Icons](https://img.shields.io/badge/React%20Icons-4.4.0-green)](https://react-icons.github.io/react-icons/)
+[![SaaS](https://img.shields.io/badge/SaaS-Platform-blue)](https://en.wikipedia.org/wiki/Software_as_a_service)
+[![API](https://img.shields.io/badge/API-v1.0-orange)](https://developer.mozilla.org/en-US/docs/Web/API)
+[![Cloud](https://img.shields.io/badge/Cloud-AWS%20Ready-lightblue)](https://aws.amazon.com/)
+[![Docker](https://img.shields.io/badge/Docker-v24.0-blue)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-v1.27-blueviolet)](https://kubernetes.io/)
+[![Node.js](https://img.shields.io/badge/Node.js-v18.15.0-green)](https://nodejs.org/)
+
+</div>
+
 
 ---
 
