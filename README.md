@@ -15,7 +15,7 @@
 
 ---
 
-## Sommaire
+## Table des matières
 - [Mission](#mission)
 - [Objectif](#objectif)
 - [Présentation visuelle](#présentation-visuelle)
