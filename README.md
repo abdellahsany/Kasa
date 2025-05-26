@@ -15,7 +15,7 @@
 
 ---
 
-## Table des matières
+## 📑 Table des matières
 - [Mission](#mission)
 - [Objectif](#objectif)
 - [Présentation visuelle](#présentation-visuelle)
@@ -26,13 +26,13 @@
 
 ---
 
-## Mission
+## 🎯 Mission
 
 Développer une application web moderne avec React et React Router, en appliquant des pratiques de gestion de version, d’automatisation des builds et de déploiement.
 
 ---
 
-## Objectif
+## 🧭 Objectif
 
 Kasa, acteur majeur de la location d’appartements entre particuliers en France, recrute un développeur Front-end freelance pour concevoir une plateforme web performante, maintenable et évolutive.
 
@@ -40,14 +40,14 @@ Ce projet permet d’implémenter des techniques professionnelles telles que la 
 
 ---
 
-## Présentation visuelle
+## 🖼️ Présentation visuelle
 
 Voici un aperçu de la page d’accueil du projet Kasa, avec la navigation, le slogan principal, et une sélection d’annonces immobilières présentées sous forme de cartes :
 
 ![Cover](https://github.com/abdellahsany/Kasa/blob/main/src/assets/images/bannerMain.png)
 
 ---
-## Fonctionnalités et bonnes pratiques techniques
+## ✅ Fonctionnalités et bonnes pratiques techniques
 
 * Architecture modulaire avec composants React réutilisables.
 * Usage de composants fonctionnels et hooks pour une gestion claire de l’état et des effets.
@@ -57,7 +57,7 @@ Voici un aperçu de la page d’accueil du projet Kasa, avec la navigation, le s
 
 ---
 
-## Aspects techniques et automatisation
+## ⚙️ Aspects techniques et automatisation
 
 * Gestion du code source via Git avec un historique clair des versions.
 * Automatisation des builds via des scripts npm (`npm run build`).
@@ -67,7 +67,7 @@ Voici un aperçu de la page d’accueil du projet Kasa, avec la navigation, le s
 
 ---
 
-## Points techniques spécifiques
+## 🧩 Points techniques spécifiques
 
 * Galerie d’images avec navigation circulaire et boutons « précédent » et « suivant » conditionnels.
 * Composant Collapse avec ouverture et fermeture des sections pour une meilleure expérience utilisateur.
@@ -75,7 +75,7 @@ Voici un aperçu de la page d’accueil du projet Kasa, avec la navigation, le s
 
 ---
 
-## Accès au projet
+## 🔗 Accès au projet
 
 Le projet est disponible en ligne sur :                                                                                                                          
 [https://abdellahsany.github.io/Kasa/](https://abdellahsany.github.io/Kasa/)
