@@ -1,7 +1,3 @@
-Bien sûr ! Voici la **structure complète du Projet Kasa**, organisée **exactement comme pour GameOn**, avec la bannière en haut, badges avec commentaires sur la même ligne, sections bien délimitées, tout au format Markdown prêt à copier/coller :
-
----
-
 # Projet Kasa
 
 <p align="center">
@@ -93,7 +89,3 @@ Ce projet permet d’implémenter des techniques professionnelles telles que la 
 
 Le projet est disponible en ligne sur :
 [https://abdellahsany.github.io/Kasa/](https://abdellahsany.github.io/Kasa/)
-
----
-
-Dis-moi si tu veux que je te prépare aussi la version pour GameOn en markdown, ou autre chose !
