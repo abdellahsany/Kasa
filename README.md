@@ -1,28 +1,24 @@
+Bien sûr ! Voici la **structure complète du Projet Kasa**, organisée **exactement comme pour GameOn**, avec la bannière en haut, badges avec commentaires sur la même ligne, sections bien délimitées, tout au format Markdown prêt à copier/coller :
+
+---
+
 # Projet Kasa
 
-[![HTML](https://img.shields.io/badge/HTML-HyperText%20Markup%20Language-orange)](https://developer.mozilla.org/fr/docs/Learn/HTML)
-[![CSS](https://img.shields.io/badge/CSS-Cascading%20Style%20Sheets-blue)](https://developer.mozilla.org/fr/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JS-JavaScript-yellow)](https://www.javascript.com/)
-[![React](https://img.shields.io/badge/React-18.2.0-9cf)](https://fr.reactjs.org/)
-[![React Router](https://img.shields.io/badge/React%20Router-v6.2.2-orange)](https://v5.reactrouter.com/web/guides/quick-start)
-[![React Icons](https://img.shields.io/badge/React%20Icons-4.4.0-green)](https://react-icons.github.io/react-icons/)
-[![SaaS](https://img.shields.io/badge/SaaS-Platform-blue)](https://en.wikipedia.org/wiki/Software_as_a_service)
-[![API](https://img.shields.io/badge/API-v1.0-orange)](https://developer.mozilla.org/en-US/docs/Web/API)
-[![Cloud](https://img.shields.io/badge/Cloud-AWS%20Ready-lightblue)](https://aws.amazon.com/)
-[![Docker](https://img.shields.io/badge/Docker-v24.0-blue)](https://www.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-v1.27-blueviolet)](https://kubernetes.io/)
-[![Node.js](https://img.shields.io/badge/Node.js-v18.15.0-green)](https://nodejs.org/)
+<p align="center">
+  <img src="https://github.com/abdellahsany/Kasa/blob/main/src/assets/images/bannerMain.png" alt="Page d’accueil Kasa" height="230px" width="100%">
+</p>
 
 ---
 
 ## 📑 Table des matières
-- [Mission](#mission)
-- [Objectif](#objectif)
-- [Présentation visuelle](#présentation-visuelle)
-- [Fonctionnalités et bonnes pratiques techniques](#fonctionnalités-et-bonnes-pratiques-techniques)
-- [Aspects techniques et automatisation](#aspects-techniques-et-automatisation)
-- [Points techniques spécifiques](#points-techniques-spécifiques)
-- [Accès au projet](#accès-au-projet)
+
+* [Mission](#mission)
+* [Objectif](#objectif)
+* [Présentation visuelle](#présentation-visuelle)
+* [Fonctionnalités et bonnes pratiques techniques](#fonctionnalités-et-bonnes-pratiques-techniques)
+* [Aspects techniques et automatisation](#aspects-techniques-et-automatisation)
+* [Points techniques spécifiques](#points-techniques-spécifiques)
+* [Accès au projet](#accès-au-projet)
 
 ---
 
@@ -42,40 +38,62 @@ Ce projet permet d’implémenter des techniques professionnelles telles que la 
 
 ## 🖼️ Présentation visuelle
 
-Voici un aperçu de la page d’accueil du projet Kasa, avec la navigation, le slogan principal, et une sélection d’annonces immobilières présentées sous forme de cartes :
-
-![Cover](https://github.com/abdellahsany/Kasa/blob/main/src/assets/images/bannerMain.png)
+* Navigation principale avec menu clair,
+* Slogan principal accrocheur,
+* Sélection d’annonces immobilières présentées sous forme de cartes.
 
 ---
+
+## ⚙️ Stacks techniques
+
+[![HTML](https://img.shields.io/badge/HTML5-HyperText%20Markup%20Language-orange)](https://developer.mozilla.org/fr/docs/Learn/HTML) : Structure sémantique et composants React
+[![CSS](https://img.shields.io/badge/CSS3-Cascading%20Style%20Sheets-blue)](https://developer.mozilla.org/fr/docs/Web/CSS) : Styles responsives et animations
+[![JavaScript](https://img.shields.io/badge/JavaScript-JavaScript-yellow)](https://www.javascript.com/) : Logique métier, gestion des états et interactions
+[![React](https://img.shields.io/badge/React-18.2.0-9cf)](https://fr.reactjs.org/) : Framework principal pour UI dynamiques
+[![React Router](https://img.shields.io/badge/React%20Router-v6.2.2-orange)](https://reactrouter.com/) : Gestion avancée des routes et navigation
+[![React Icons](https://img.shields.io/badge/React%20Icons-4.4.0-green)](https://react-icons.github.io/react-icons/) : Icônes vectorielles faciles à intégrer
+[![SaaS](https://img.shields.io/badge/SaaS-Platform-blue)](https://en.wikipedia.org/wiki/Software_as_a_service) : Hébergement et déploiement SaaS
+[![API](https://img.shields.io/badge/API-v1.0-orange)](https://developer.mozilla.org/en-US/docs/Web/API) : Utilisation d’APIs web pour interactivité
+[![Cloud](https://img.shields.io/badge/Cloud-AWS%20Ready-lightblue)](https://aws.amazon.com/) : Hébergement cloud évolutif
+[![Docker](https://img.shields.io/badge/Docker-v24.0-blue)](https://www.docker.com/) : Conteneurisation stable
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-v1.27-blueviolet)](https://kubernetes.io/) : Orchestration des conteneurs
+[![Node.js](https://img.shields.io/badge/Node.js-v18.15.0-green)](https://nodejs.org/) : Serveur JavaScript et gestion des builds
+
+---
+
 ## ✅ Fonctionnalités et bonnes pratiques techniques
 
-* Architecture modulaire avec composants React réutilisables.
-* Usage de composants fonctionnels et hooks pour une gestion claire de l’état et des effets.
-* Centralisation de la logique du routeur dans un fichier unique pour simplifier la maintenance.
-* Navigation optimisée avec React Router, gestion des paramètres d’URL et pages 404 pour les erreurs.
-* Attention à la performance et à l’accessibilité.
+* Architecture modulaire avec composants React réutilisables,
+* Usage de composants fonctionnels et hooks pour une gestion claire de l’état et des effets,
+* Centralisation de la logique du routeur dans un fichier unique,
+* Navigation optimisée avec gestion des paramètres d’URL et pages 404,
+* Attention particulière à la performance et à l’accessibilité.
 
 ---
 
 ## ⚙️ Aspects techniques et automatisation
 
-* Gestion du code source via Git avec un historique clair des versions.
-* Automatisation des builds via des scripts npm (`npm run build`).
-* Déploiement automatisé sur GitHub Pages avec l’outil `gh-pages`.
-* Collaboration facilitée grâce à la gestion des branches et pull requests.
+* Gestion du code source via Git avec un historique clair des versions,
+* Automatisation des builds via des scripts npm (`npm run build`),
+* Déploiement automatisé sur GitHub Pages avec l’outil `gh-pages`,
+* Collaboration facilitée grâce à la gestion des branches et pull requests,
 * Documentation structurée et code organisé pour une prise en main rapide.
 
 ---
 
 ## 🧩 Points techniques spécifiques
 
-* Galerie d’images avec navigation circulaire et boutons « précédent » et « suivant » conditionnels.
-* Composant Collapse avec ouverture et fermeture des sections pour une meilleure expérience utilisateur.
-* Respect des maquettes graphiques, avec galerie à hauteur fixe et images centrées et responsives.
+* Galerie d’images avec navigation circulaire et boutons « précédent » et « suivant » conditionnels,
+* Composant Collapse avec ouverture et fermeture des sections pour une meilleure expérience utilisateur,
+* Respect strict des maquettes graphiques, avec galerie à hauteur fixe, images centrées et responsives.
 
 ---
 
 ## 🔗 Accès au projet
 
-Le projet est disponible en ligne sur :                                                                                                                          
+Le projet est disponible en ligne sur :
 [https://abdellahsany.github.io/Kasa/](https://abdellahsany.github.io/Kasa/)
+
+---
+
+Dis-moi si tu veux que je te prépare aussi la version pour GameOn en markdown, ou autre chose !
