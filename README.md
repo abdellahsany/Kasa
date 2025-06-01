@@ -10,7 +10,7 @@
 
 * [Mission](#mission)
 * [Objectif](#objectif)
-* [Fonctionnalités clés](#présentation-visuelle)
+* [Points forts de l’interface](#présentation-visuelle)
 * [Fonctionnalités et bonnes pratiques techniques](#fonctionnalités-et-bonnes-pratiques-techniques)
 * [Aspects techniques et automatisation](#aspects-techniques-et-automatisation)
 * [Points techniques spécifiques](#points-techniques-spécifiques)
