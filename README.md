@@ -32,7 +32,7 @@ Ce projet permet d’implémenter des techniques professionnelles telles que la 
 
 ---
 
-## ✨ Fonctionnalités clés
+## ✨ Points forts de l’interface
 
 * Navigation principale avec menu clair,
 * Slogan principal accrocheur,
