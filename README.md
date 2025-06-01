@@ -89,3 +89,10 @@ Ce projet permet d’implémenter des techniques professionnelles telles que la 
 
 Le projet est disponible en ligne sur :                                                                                                                            
 https://abdellahsany.github.io/Kasa/
+
+## Accès rapide au projet
+
+Scannez ce QR code pour accéder au projet Kasa :
+
+![QR Code](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://abdellahsany.github.io/Kasa/)
+
