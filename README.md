@@ -10,7 +10,7 @@
 
 * [Mission](#mission)
 * [Objectif](#objectif)
-* [Caractéristiques](#présentation-visuelle)
+* [Fonctionnalités clés](#présentation-visuelle)
 * [Fonctionnalités et bonnes pratiques techniques](#fonctionnalités-et-bonnes-pratiques-techniques)
 * [Aspects techniques et automatisation](#aspects-techniques-et-automatisation)
 * [Points techniques spécifiques](#points-techniques-spécifiques)
@@ -32,7 +32,7 @@ Ce projet permet d’implémenter des techniques professionnelles telles que la 
 
 ---
 
-## ✨ Caractéristiques
+## ✨ Fonctionnalités clés
 
 * Navigation principale avec menu clair,
 * Slogan principal accrocheur,
