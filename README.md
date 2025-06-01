@@ -32,7 +32,7 @@ Ce projet permet d’implémenter des techniques professionnelles telles que la 
 
 ---
 
-## 🛠️ Caractéristiques
+## ✨ Caractéristiques
 
 * Navigation principale avec menu clair,
 * Slogan principal accrocheur,
