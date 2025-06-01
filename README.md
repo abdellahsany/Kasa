@@ -94,5 +94,7 @@ https://abdellahsany.github.io/Kasa/
 
 Scannez ce QR code pour accéder au projet Kasa :
 
-![QR Code](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://abdellahsany.github.io/Kasa/)
+<div style="margin: 25px; border-radius: 15px; overflow: hidden; display: inline-block;">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https://abdellahsany.github.io/Kasa/" alt="QR Code" style="display: block; border-radius: 15px;">
+</div>
 
