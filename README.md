@@ -97,5 +97,5 @@ Le projet Kasa est disponible en ligne sur :
 Scannez ce QR code pour accéder au projet Kasa :
 
 <p align="left">
-  <img src="https://github.com/abdellahsany/Kasa/blob/main/src/assets/images/frameKasa.png" alt="QR code pour accéder au projet Kasa" height="100px" width="100px">
+  <img src="https://github.com/abdellahsany/Kasa/blob/main/src/assets/images/frameKasa.png" alt="QR code pour accéder au projet Kasa" height="80px" width="70px">
 </p>
