@@ -1,7 +1,7 @@
 # Kasa
 
 <p align="center">
-  <img src="https://github.com/abdellahsany/Kasa/blob/main/src/assets/images/bannerMain.png" alt="Page d’accueil Kasa" height="100px" width="60px">
+  <img src="https://github.com/abdellahsany/Kasa/blob/main/src/assets/images/bannerMain.png" alt="Page d’accueil Kasa" height="100px" width="100px">
 </p>
 
 ---
