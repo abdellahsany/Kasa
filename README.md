@@ -90,7 +90,7 @@ Ce projet permet d’implémenter des techniques professionnelles telles que la 
 
 ---
 
-## 📲 Accès rapide au projet par QR :
+## 📲 Accès au projet par QR :
 
 <p align="left">
   <img src="https://github.com/abdellahsany/Kasa/blob/main/src/assets/images/frameKasa.png" alt="QR code pour accéder au projet Kasa" height="70px" width="70px">
