@@ -20,7 +20,7 @@
 
 ## 🎯 Mission
 
-Développer une application web moderne pour le projet **Kasa**, acteur majeur de la location d’appartements entre particuliers en France. L’objectif est de créer une application performante, maintenable et évolutive en utilisant **React** et **React Router**.
+Développer une application web moderne pour le projet *Kasa*, acteur majeur de la location d’appartements entre particuliers en France. L’objectif est de créer une application performante, maintenable et évolutive en utilisant **React** et **React Router**.
 
 ## 🧭 Objectif
 
