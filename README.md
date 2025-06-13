@@ -20,15 +20,14 @@
 
 ## 🎯 Mission
 
-Développer une application web moderne avec React et React Router, en appliquant des pratiques de gestion de version, d’automatisation des builds et de déploiement.
-
----
+Développer une plateforme web moderne pour le projet **Kasa**, acteur majeur de la location d’appartements entre particuliers en France. L’objectif est de créer une application performante, maintenable et évolutive en utilisant **React** et **React Router**.
 
 ## 🧭 Objectif
 
-Kasa, acteur majeur de la location d’appartements entre particuliers en France, recrute un développeur Front-end freelance pour concevoir une plateforme web performante, maintenable et évolutive.
-
-Ce projet permet d’implémenter des techniques professionnelles telles que la gestion de code source, l’automatisation du déploiement et une organisation optimisée du projet pour faciliter la collaboration.
+- Concevoir une interface **moderne** et **dynamique**.
+- Implémenter une architecture **performante**, **maintenable** et **évolutive**.
+- Appliquer des bonnes pratiques de **gestion de code source**, d'**automatisation des builds** et de **déploiement**.
+- Assurer une **collaboration fluide** et une **organisation optimisée** au sein de l'équipe de développement.
 
 ---
 
