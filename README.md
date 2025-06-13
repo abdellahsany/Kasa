@@ -84,15 +84,13 @@ Ce projet permet d’implémenter des techniques professionnelles telles que la 
 * Respect strict des maquettes graphiques, avec galerie à hauteur fixe, images centrées et responsives.
 
 ---
-## 🔗 Accès au projet par lien
+## 🔗 Accès au projet par lien :
                                                                                                                     
 [https://abdellahsany.github.io/Kasa/](https://abdellahsany.github.io/Kasa/)
 
 ---
 
-## 📲 Accès rapide au projet par QR
-
-Scannez ce QR code pour accéder au projet Kasa :
+## 📲 Accès rapide au projet par QR :
 
 <p align="left">
   <img src="https://github.com/abdellahsany/Kasa/blob/main/src/assets/images/frameKasa.png" alt="QR code pour accéder au projet Kasa" height="70px" width="70px">
