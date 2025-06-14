@@ -85,12 +85,12 @@ Développer une application web moderne pour le projet *Kasa*, acteur majeur de 
 ---
 ## 🔗 Accès au projet par lien :
                                                                                                                     
-* [https://abdellahsany.github.io/Kasa/](https://abdellahsany.github.io/Kasa/)
+[https://abdellahsany.github.io/Kasa/](https://abdellahsany.github.io/Kasa/)
 
 ---
 
 ## 📲 Accès au projet par QR :
 
 <p align="left">
-*  <img src="https://github.com/abdellahsany/Kasa/blob/main/src/assets/images/frameKasa.png" alt="QR code pour accéder au projet Kasa" height="70px" width="70px">
+<img src="https://github.com/abdellahsany/Kasa/blob/main/src/assets/images/frameKasa.png" alt="QR code pour accéder au projet Kasa" height="70px" width="70px">
 </p>
