@@ -83,13 +83,13 @@ Développer une application web moderne pour le projet *Kasa*, acteur majeur de 
 * Respect strict des maquettes graphiques, avec galerie à hauteur fixe, images centrées et responsives.
 
 ---
-## 🔗 Accès a *Kasa* par lien :
+## 🔗 Accès au projet par lien :
                                                                                                                     
 [https://abdellahsany.github.io/Kasa/](https://abdellahsany.github.io/Kasa/)
 
 ---
 
-## 📲 Accès a *Kasa* par QR :
+## 📲 Accès au projet par QR :
 
 <p align="left">
 <img src="https://github.com/abdellahsany/Kasa/blob/main/src/assets/images/frameKasa.png" alt="QR code pour accéder au projet Kasa" height="70px" width="70px">
