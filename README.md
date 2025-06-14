@@ -85,7 +85,7 @@ Développer une application web moderne pour le projet *Kasa*, acteur majeur de 
 ---
 ## 🔗 Accès au projet par lien :
                                                                                                                     
-URL : [https://abdellahsany.github.io/Kasa/](https://abdellahsany.github.io/Kasa/)
+* URL : [https://abdellahsany.github.io/Kasa/](https://abdellahsany.github.io/Kasa/)
 
 ---
 
