@@ -15,8 +15,8 @@
 * [Fonctionnalités et bonnes pratiques techniques](#fonctionnalites-et-bonnes-pratiques-techniques)
 * [Aspects techniques et automatisation](#aspects-techniques-et-automatisation)
 * [Points techniques spécifiques](#points-techniques-specifiques)
-* [Accès au projet](#acces-au-projet)
-
+* [Accès au projet par clic](#acces-au-projet-par-clic)
+* [Accès au projet par QR](#acces-au-projet-par-QR)
 ---
 
 ## 🎯 Mission <a name="mission"></a>
@@ -87,7 +87,7 @@ Développer une application web moderne pour le projet *Kasa*, acteur majeur de 
 
 ---
 
-## 🔗 Accès au projet par clic :
+## 🔗 Accès au projet par clic <a name="acces-au-projet-par-clic"></a>:
 
 <a href="https://abdellahsany.github.io/Kasa/">
   <img src="https://github.com/abdellahsany/Kasa/blob/main/src/assets/images/Picture (47).png" alt="Cliquez ici" height="55px" width="55px"/>
@@ -95,7 +95,7 @@ Développer une application web moderne pour le projet *Kasa*, acteur majeur de 
 
 ---
 
-## 📲 Accès au projet par QR :
+## 📲 Accès au projet par QR <a name="acces-au-projet-par-QR"></a> :
 
 <p align="left">
 <img src="https://github.com/abdellahsany/Kasa/blob/main/src/assets/images/frameKasa.png" alt="QR code pour accéder au projet Kasa" height="55px" width="55px">
