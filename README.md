@@ -90,7 +90,7 @@ Développer une application web moderne pour le projet *Kasa*, acteur majeur de 
 ## 🔗 Accès au projet par clic :
 
 <a href="https://abdellahsany.github.io/Kasa/">
-  <img src="https://github.com/abdellahsany/Kasa/blob/main/src/assets/images/cliquez-sur%20(2).png" alt="Cliquez ici" height="55px" width="55px"/>
+  <img src="https://github.com/abdellahsany/Kasa/blob/main/src/assets/images/Picture (47).png" alt="Cliquez ici" height="55px" width="55px"/>
 </a>
 
 ---
