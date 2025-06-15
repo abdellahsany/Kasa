@@ -1,7 +1,3 @@
-Voici un exemple adapté du projet **GameOn** à celui de **Kasa**, en suivant la structure et les points clés de **GameOn** tout en les appliquant à **Kasa**.
-
----
-
 # *Kasa*
 
 <p align="center">
