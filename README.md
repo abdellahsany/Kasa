@@ -1,7 +1,7 @@
 # *Kasa*
 
 <p align="center">
-  <img src="https://github.com/abdellahsany/Kasa/blob/main/src/assets/images/2025-06-14_00h07_07 787887.png" alt="Page d’accueil Kasa" height="90%" width="90%">
+  <img src="https://github.com/abdellahsany/Kasa/blob/main/src/assets/images/2025-06-14_00h07_07 787887.png" alt="Page d’accueil Kasa" height="100%" width="100%">
 </p>
 
 ---
@@ -44,18 +44,20 @@ Développer une application web moderne pour le projet *Kasa*, acteur majeur de 
 
 ## 📚 Stacks techniques <a name="stacks-techniques"></a>
 
-* [![HTML](https://img.shields.io/badge/HTML5-HyperText%20Markup%20Language-orange)](https://developer.mozilla.org/fr/docs/Learn/HTML) : Structure sémantique et composants React
-* [![CSS](https://img.shields.io/badge/CSS3-Cascading%20Style%20Sheets-blue)](https://developer.mozilla.org/fr/docs/Web/CSS) : Styles responsives et animations
-* [![JavaScript](https://img.shields.io/badge/JavaScript-JavaScript-yellow)](https://www.javascript.com/) : Logique métier, gestion des états et interactions
-* [![React](https://img.shields.io/badge/React-18.2.0-9cf)](https://fr.reactjs.org/) : Framework principal pour UI dynamiques
-* [![React Router](https://img.shields.io/badge/React%20Router-v6.2.2-orange)](https://reactrouter.com/) : Gestion avancée des routes et navigation
-* [![React Icons](https://img.shields.io/badge/React%20Icons-4.4.0-green)](https://react-icons.github.io/react-icons/) : Icônes vectorielles faciles à intégrer
-* [![SaaS](https://img.shields.io/badge/SaaS-Platform-blue)](https://en.wikipedia.org/wiki/Software_as_a_service) : Hébergement et déploiement SaaS
-* [![API](https://img.shields.io/badge/API-v1.0-orange)](https://developer.mozilla.org/en-US/docs/Web/API) : Utilisation d’APIs web pour interactivité
-* [![Cloud](https://img.shields.io/badge/Cloud-AWS%20Ready-lightblue)](https://aws.amazon.com/) : Hébergement cloud évolutif
-* [![Docker](https://img.shields.io/badge/Docker-v24.0-blue)](https://www.docker.com/) : Conteneurisation stable
-* [![Kubernetes](https://img.shields.io/badge/Kubernetes-v1.27-blueviolet)](https://kubernetes.io/) : Orchestration des conteneurs
-* [![Node.js](https://img.shields.io/badge/Node.js-v18.15.0-green)](https://nodejs.org/) : Serveur JavaScript et gestion des builds
+| Technologie | Description |
+|-------------|-------------|
+| [![HTML](https://img.shields.io/badge/HTML5-HyperText%20Markup%20Language-orange)](https://developer.mozilla.org/fr/docs/Learn/HTML) | Structure sémantique et composants React |
+| [![CSS](https://img.shields.io/badge/CSS3-Cascading%20Style%20Sheets-blue)](https://developer.mozilla.org/fr/docs/Web/CSS) | Styles responsives et animations |
+| [![JavaScript](https://img.shields.io/badge/JavaScript-JavaScript-yellow)](https://www.javascript.com/) | Logique métier, gestion des états et interactions |
+| [![React](https://img.shields.io/badge/React-18.2.0-9cf)](https://fr.reactjs.org/) | Framework principal pour UI dynamiques |
+| [![React Router](https://img.shields.io/badge/React%20Router-v6.2.2-orange)](https://reactrouter.com/) | Gestion avancée des routes et navigation |
+| [![React Icons](https://img.shields.io/badge/React%20Icons-4.4.0-green)](https://react-icons.github.io/react-icons/) | Icônes vectorielles faciles à intégrer |
+| [![SaaS](https://img.shields.io/badge/SaaS-Platform-blue)](https://en.wikipedia.org/wiki/Software_as_a_service) | Hébergement et déploiement SaaS |
+| [![API](https://img.shields.io/badge/API-v1.0-orange)](https://developer.mozilla.org/en-US/docs/Web/API) | Utilisation d’APIs web pour interactivité |
+| [![Cloud](https://img.shields.io/badge/Cloud-AWS%20Ready-lightblue)](https://aws.amazon.com/) | Hébergement cloud évolutif |
+| [![Docker](https://img.shields.io/badge/Docker-v24.0-blue)](https://www.docker.com/) | Conteneurisation stable |
+| [![Kubernetes](https://img.shields.io/badge/Kubernetes-v1.27-blueviolet)](https://kubernetes.io/) | Orchestration des conteneurs |
+| [![Node.js](https://img.shields.io/badge/Node.js-v18.15.0-green)](https://nodejs.org/) | Serveur JavaScript et gestion des builds |
 
 ---
 
