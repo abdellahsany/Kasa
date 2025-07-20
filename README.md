@@ -59,7 +59,7 @@ Développer une application web moderne pour le projet *Kasa*, acteur majeur de 
 
 ---
 
-## ✔️ Fonctionnalités et bonnes pratiques techniques <a name="fonctionnalites-et-bonnes-pratiques-techniques"></a>
+##🔋Fonctionnalités et bonnes pratiques techniques <a name="fonctionnalites-et-bonnes-pratiques-techniques"></a>
 
 * Architecture modulaire avec composants React réutilisables,
 * Usage de composants fonctionnels et hooks pour une gestion claire de l’état et des effets,
