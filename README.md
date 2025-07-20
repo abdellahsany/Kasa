@@ -44,7 +44,7 @@ Développer une application web moderne pour le projet *Kasa*, acteur majeur de 
 
 ## 📚 Stacks techniques <a name="stacks-techniques"></a>
 
-| Technologie | Description |
+| Technologies | Description |
 |-------------|-------------|
 | [![HTML](https://img.shields.io/badge/HTML5-HyperText%20Markup%20Language-orange)](https://developer.mozilla.org/fr/docs/Learn/HTML) | Structure sémantique et composants React |
 | [![CSS](https://img.shields.io/badge/CSS3-Cascading%20Style%20Sheets-blue)](https://developer.mozilla.org/fr/docs/Web/CSS) | Styles responsives et animations |
