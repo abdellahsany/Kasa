@@ -16,7 +16,6 @@
 - [Aspects techniques & automatisation](#aspects-techniques-automatisation)  
 - [Points techniques spécifiques](#points-techniques-specifiques)  
 - [Démo live](#demo-live)  
-- [Accès QR](#acces-qr)  
 
 ---
 
