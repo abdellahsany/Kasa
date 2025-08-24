@@ -93,8 +93,8 @@ Objectif : créer une application **performante**, **maintenable** et **évoluti
 - **Galerie d’images** avec navigation circulaire (précédent/suivant conditionnels)  
 - **Composant Collapse** interactif pour afficher/cacher du contenu  
 - **Respect strict des maquettes graphiques** :  
-  - Galerie à hauteur fixe  
-  - Images centrées et responsives  
+- **Galerie à hauteur fixe**
+- **Images centrées et responsives**  
 
 ---
 
@@ -106,12 +106,3 @@ Objectif : créer une application **performante**, **maintenable** et **évoluti
        alt="Démo live"
        style="width:140px; height:18px; border-radius:10px;">
 </a>
-
----
-
-<a id="acces-qr"></a>
-### 📲 Accès QR
-
-<p align="center">
-  <img src="https://github.com/abdellahsany/Kasa/blob/main/src/assets/images/frameKasa.png" alt="QR code projet Kasa" width="120px">
-</p>
