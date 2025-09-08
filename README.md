@@ -97,6 +97,4 @@ Développer une application web moderne pour le projet **Kasa**, acteur majeur d
 ---
 
 <a id="demo-live"></a>
-### 🔗 Démo live
-
-abdellahsany.github.io/Kasa
+### 🔗abdellahsany.github.io/Kasa
