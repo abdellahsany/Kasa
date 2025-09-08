@@ -1,4 +1,4 @@
-## Kasa
+### Kasa
 
 <p align="center">
   <img src="https://github.com/abdellahsany/Kasa/blob/main/src/assets/images/kasa_welcome.png" alt="Page d’accueil Kasa" width="100%">
