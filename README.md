@@ -49,17 +49,18 @@ Développer une application web moderne pour le projet **Kasa**, acteur majeur d
 <a id="stacks-techniques"></a>
 ### 🛠️ Stacks techniques
 
-| Outils | Fonctions |
-|:-------|:----------|
-| <span style="color:#E34F26; font-weight:bold">HTML5</span> | Structure sémantique et intégration React |
-| <span style="color:#1572B6; font-weight:bold">CSS3</span> | Styles responsives et animations |
-| <span style="color:#F7DF1E; font-weight:bold">JavaScript</span> | Logique métier et interactions dynamiques |
-| <span style="color:#61DAFB; font-weight:bold">React 18.2</span> | Framework principal |
-| <span style="color:#FF7043; font-weight:bold">React Router 6.2</span> | Gestion avancée des routes |
-| <span style="color:#4CAF50; font-weight:bold">React Icons</span> | Intégration d’icônes vectorielles |
-| <span style="color:#2C9ACD; font-weight:bold">GitHub Pages</span> | Hébergement et déploiement |
-| <span style="color:#FF4081; font-weight:bold">UX</span> | Expérience utilisateur (ergonomie, fluidité) |
-| <span style="color:#4CAF50; font-weight:bold">UI</span> | Interface utilisateur (design, cohérence) |
+| Outils                                                                     | Fonctions                                                                  |
+| :------------------------------------------------------------------------- | :------------------------------------------------------------------------- |
+| <span style="color:#E34F26; font-weight:bold">HTML5</span>                 | Structure sémantique des pages et intégration des composants React         |
+| <span style="color:#1572B6; font-weight:bold">CSS3 / Flexbox / Grid</span> | Mise en page responsive, animations, transitions et design cohérent        |
+| <span style="color:#F7DF1E; font-weight:bold">JavaScript (ES6+)</span>     | Logique métier, interactions dynamiques, gestion des événements            |
+| <span style="color:#61DAFB; font-weight:bold">React 18.2</span>            | Framework principal pour construire l’UI en composants réutilisables       |
+| <span style="color:#FF7043; font-weight:bold">React Router 6.2</span>      | Gestion avancée des routes, navigation entre pages et page 404             |
+| <span style="color:#4CAF50; font-weight:bold">React Icons</span>           | Intégration d’icônes vectorielles pour un design cohérent                  |
+| <span style="color:#2C9ACD; font-weight:bold">Git & GitHub</span>          | Gestion du code source, suivi des versions et collaboration                |
+| <span style="color:#FF4081; font-weight:bold">GitHub Pages</span>          | Hébergement et déploiement continu de l’application                        |
+| <span style="color:#FFC107; font-weight:bold">Hooks React</span>           | Gestion de l’état local, des effets et des données dynamiques              |
+| <span style="color:#9C27B0; font-weight:bold">UX / UI</span>               | Expérience utilisateur et cohérence visuelle (ergonomie, fluidité, design) |
 
 ---
 
