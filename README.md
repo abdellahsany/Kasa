@@ -4,6 +4,11 @@
   <img src="https://github.com/abdellahsany/Kasa/blob/main/src/assets/images/kasa_welcome.png" alt="Page d’accueil Kasa" width="100%">
 </p>
 
+<p align="right">
+  <a href="https://abdellahsany.github.io/Booki/" target="_blank">
+    <img src="https://img.shields.io/badge/Démo%20Live-0065FC?style=for-the-badge&logo=github&logoColor=white" alt="Démo Live">
+  </a>
+</p>
 ---
 
 ### 📑 Table des matières
@@ -109,11 +114,5 @@ Développer une application web moderne pour le projet **Kasa**, acteur majeur d
 <p align="right">
   <a href="https://abdellahsany.github.io/Booki/" target="_blank">
     <img src="https://img.shields.io/badge/Démo%20Live-0065FC?style=for-the-badge&logo=github&logoColor=white" alt="Démo Live">
-  </a>
-</p>
-
-<p align="right">
-  <a href="https://abdellahsany.github.io/Booki/" target="_blank">
-    <img src="https://img.shields.io/badge/Cliquez_ici-0065FC?style=for-the-badge&logo=github&logoColor=white" alt="Démo Live">
   </a>
 </p>
