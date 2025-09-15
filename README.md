@@ -15,7 +15,7 @@
 - [Fonctionnalités et bonnes pratiques](#fonctionnalites-pratiques)  
 - [Aspects techniques & automatisation](#aspects-techniques-automatisation)  
 - [Points techniques spécifiques](#points-techniques-specifiques)  
-- [Démo live](#demo-live)
+- [Démo](#demo)
 
 ---
 
