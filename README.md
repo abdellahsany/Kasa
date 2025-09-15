@@ -106,8 +106,14 @@ Développer une application web moderne pour le projet **Kasa**, acteur majeur d
        style="width:140px; height:18px; border-radius:10px;">
 </a>
 
-<p align="center">
+<p align="right">
   <a href="https://abdellahsany.github.io/Booki/" target="_blank">
     <img src="https://img.shields.io/badge/Démo%20Live-0065FC?style=for-the-badge&logo=github&logoColor=white" alt="Démo Live">
+  </a>
+</p>
+
+<p align="right">
+  <a href="https://abdellahsany.github.io/Booki/" target="_blank">
+    <img src="https://img.shields.io/badge/Cliquez_ici-0065FC?style=for-the-badge&logo=github&logoColor=white" alt="Démo Live">
   </a>
 </p>
