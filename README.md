@@ -104,8 +104,3 @@ Développer une application web moderne pour le projet **Kasa**, acteur majeur d
        alt="Démo live"
        style="width:140px; height:18px; border-radius:10px;">
 </a>
-
-<a href="https://abdellahsany.github.io/Kasa/" target="_blank">
-  <img src="https://img.shields.io/badge/Démo%20Live-FF6060?style=for-the-badge&logo=github&logoColor=white" alt="Démo Live" style="width:140px; height:18px; border-radius:10px;">
-</a>
-
