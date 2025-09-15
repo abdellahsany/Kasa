@@ -7,7 +7,7 @@
 <table width="100%">
   <tr>
     <td align="left">
-      <h2 style="margin:90;">Kasa</h2>
+      <h2 style="margin:390;">Kasa</h2>
     </td>
     <td align="right">
       <a href="https://abdellahsany.github.io/Booki/" target="_blank">
