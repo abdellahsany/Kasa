@@ -28,6 +28,10 @@
   <li><a href="#demo-live" style="text-decoration:none;">Démo live</a></li>
 </ul>
 
+a {
+  text-decoration: none;
+}
+
 ---
 
 <a id="mission"></a>
