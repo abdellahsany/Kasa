@@ -1,6 +1,15 @@
-## Kasa&nbsp;<a href="https://abdellahsany.github.io/Booki/" target="_blank">
-  <img src="https://img.shields.io/badge/Démo%20Live-0065FC?style=for-the-badge&logo=github&logoColor=white" alt="Démo Live">
-</a>
+<table style="width:100%;">
+  <tr>
+    <td align="left">
+      <h2>Kasa</h2>
+    </td>
+    <td align="right">
+      <a href="https://abdellahsany.github.io/Booki/" target="_blank">
+        <img src="https://img.shields.io/badge/Démo%20Live-0065FC?style=for-the-badge&logo=github&logoColor=white" alt="Démo Live">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
