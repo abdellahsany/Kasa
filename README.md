@@ -15,7 +15,18 @@
 - [Fonctionnalités et bonnes pratiques](#fonctionnalites-pratiques)  
 - [Aspects techniques & automatisation](#aspects-techniques-automatisation)  
 - [Points techniques spécifiques](#points-techniques-specifiques)  
-- [Démo live](#demo-live)  
+- [Démo live](#demo-live)
+
+<ul>
+  <li><a href="#mission" style="text-decoration:none;">Mission</a></li>
+  <li><a href="#objectifs" style="text-decoration:none;">Objectifs</a></li>
+  <li><a href="#points-forts-de-linterface" style="text-decoration:none;">Points forts de l’interface</a></li>
+  <li><a href="#stacks-techniques" style="text-decoration:none;">Stacks techniques</a></li>
+  <li><a href="#fonctionnalites-et-bonnes-pratiques" style="text-decoration:none;">Fonctionnalités et bonnes pratiques</a></li>
+  <li><a href="#aspects-techniques--automatisation" style="text-decoration:none;">Aspects techniques & automatisation</a></li>
+  <li><a href="#points-techniques-specifiques" style="text-decoration:none;">Points techniques spécifiques</a></li>
+  <li><a href="#demo-live" style="text-decoration:none;">Démo live</a></li>
+</ul>
 
 ---
 
