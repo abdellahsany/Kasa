@@ -9,6 +9,7 @@
     <img src="https://img.shields.io/badge/Démo%20Live-0065FC?style=for-the-badge&logo=github&logoColor=white" alt="Démo Live">
   </a>
 </p>
+
 ---
 
 ### 📑 Table des matières
