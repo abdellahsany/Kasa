@@ -1,15 +1,6 @@
-## Kasa
-
-<h2>
-  Kasa
-  <a href="https://abdellahsany.github.io/Booki/" target="_blank" style="float:right;">
-    <img src="https://img.shields.io/badge/Démo%20Live-0065FC?style=for-the-badge&logo=github&logoColor=white" alt="Démo Live">
-  </a>
-</h2>
-
-<p align="center">
-  <img src="https://github.com/abdellahsany/Kasa/blob/main/src/assets/images/kasa_welcome.png" alt="Page d’accueil Kasa" width="100%">
-</p>
+## Kasa&nbsp;<a href="https://abdellahsany.github.io/Booki/" target="_blank">
+  <img src="https://img.shields.io/badge/Démo%20Live-0065FC?style=for-the-badge&logo=github&logoColor=white" alt="Démo Live">
+</a>
 
 ---
 
