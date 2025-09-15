@@ -1,15 +1,7 @@
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-  <tr>
-    <td align="left" valign="middle">
-      <h2 style="margin: 0;">Kasa</h2>
-    </td>
-    <td align="right" valign="middle">
-      <a href="https://abdellahsany.github.io/Booki/" target="_blank">
-        <img src="https://img.shields.io/badge/Démo%20Live-0065FC?style=for-the-badge&logo=github&logoColor=white" alt="Démo Live">
-      </a>
-    </td>
-  </tr>
-</table>
+## Kasa&nbsp;<a href="https://abdellahsany.github.io/Booki/" target="_blank">
+  <img src="https://img.shields.io/badge/Démo%20Live-0065FC?style=for-the-badge&logo=github&logoColor=white" alt="Démo Live">
+</a>
+
 
 ---
 
