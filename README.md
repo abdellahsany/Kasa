@@ -13,14 +13,7 @@
 </h2>
 
 <h2>
-  Kasa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://abdellahsany.github.io/Booki/" target="_blank" style="float:right;">
-    <img src="https://img.shields.io/badge/Démo%20Live-0065FC?style=for-the-badge&logo=github&logoColor=white" alt="Démo Live">
-  </a>
-</h2>
-
-<h2>
-  Kasa<span style="display:inline-block; width:200px;"></span>
+  Kasa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://abdellahsany.github.io/Booki/" target="_blank" style="float:right;">
     <img src="https://img.shields.io/badge/Démo%20Live-0065FC?style=for-the-badge&logo=github&logoColor=white" alt="Démo Live">
   </a>
